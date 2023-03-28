@@ -4,6 +4,6 @@ public class testfile {
 
     /*testfile*/
     /*testfile*/
-    testfile
+    /cv   *testfile.test*/
 
 }
